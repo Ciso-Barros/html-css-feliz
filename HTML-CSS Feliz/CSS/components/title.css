@@ -1,6 +1,10 @@
 H1{
     font-family: 'Press Start 2P', sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     color:#e9c46a;
     text-shadow: 5px 5px 0 #000;
+}
+
+#box h1 {
+    margin-bottom: 28px;
 }
