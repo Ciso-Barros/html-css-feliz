@@ -5,14 +5,18 @@
     background-color: #0f1b20;
     width: 280px;
     height: 280px;
-    box-shadow: 5px 5px 0 #ffff;
+    box-shadow: 10px 10px 0 #ffff;
 }
 
-.card-project.-blue{
+.card-project.-first{
+    margin-right: 40px;
+}
+
+.card-project.-second{
     background-color: rgb(58, 58, 119);
 }
 
-.card-project.-bgblack{
-    background-color: black;
+.card-project.-third{
+    margin-left: 40px;
 }
 
