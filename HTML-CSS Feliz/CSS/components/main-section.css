@@ -1,0 +1,12 @@
+.main-section{
+    background-color: #F4A261;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid #264653;
+}
+
+.main-section.-bgblack{
+    background-color: black;
+}
+
+
