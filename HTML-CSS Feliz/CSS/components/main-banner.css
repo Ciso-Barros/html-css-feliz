@@ -1,4 +1,4 @@
-.banner {
+.main-banner {
     background-image: url(../../assets/img/paisagem.png);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -8,14 +8,14 @@
 
 
 
-.banner .wrapper{
+.main-banner .wrapper{
     display: flex;
     flex-direction: column;
     width: 640px;
     padding: 150px;
 }
 
-.banner .navigation {
+.main-banner .navigation {
     display: flex;
     justify-content: space-around;
 
