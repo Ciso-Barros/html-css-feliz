@@ -9,6 +9,7 @@
 
 .skill-tec .icon{
     margin-right: 25px;
+    width: 90px;
 }
 
 .skill-tec .right{
@@ -16,6 +17,5 @@
     flex-direction: column;
     justify-content: space-around;
     margin-left: 20px;
-    width: 90px;
     margin-bottom: 16px;
 }
