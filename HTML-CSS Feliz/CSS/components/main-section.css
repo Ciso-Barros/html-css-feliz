@@ -5,8 +5,13 @@
     border-bottom: 10px solid #264653;
 }
 
-.main-section.-bgblack{
+
+
+.main-section.-bgBlack{
     background-color: black;
 }
 
+.main-section.-bgSecond{
+    background-color: #7C5E99;
+}
 
